@@ -3,3 +3,4 @@ title: Jessie's Projects Find a Home
 description: WIP
 name: Jessie Mueller
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
